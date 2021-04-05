@@ -2,5 +2,3 @@
 .theOldGuard
 node_modules
 .next
-
-./components/index.js
